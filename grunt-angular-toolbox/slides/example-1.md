@@ -1,7 +1,5 @@
-## how do i use this?
-#### / example
+## basic structure
 
-lets assume
 ```php
  ┌ demo/
  ├ dist/

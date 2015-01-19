@@ -1,16 +1,16 @@
-##  execute all the tasks!
+```js
+// Gruntfile.js
+/* global module */
+module.exports = function(grunt) {
+  'use strict';
 
-```sh
-grunt build
-grunt coverage
-grunt coveralls
-grunt demo
-grunt demo:e2e
-grunt release
-grunt tdd
-grunt tdd:e2e
-grunt tdd:unit
-grunt test
-grunt test:e2e
-grunt test:unit
+  grunt.initConfig({
+    pkg: grunt.file.readJSON('package.json'),
+    'angular-toolbox': { /* special configuration… */ }
+  });
+
+  grunt.loadNpmTasks('grunt-angular-toolbox');
+
+  /* overwrite anything you do not like, register additional tasks */
+};
 ```

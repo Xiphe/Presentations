@@ -19,8 +19,4 @@
     }
 }
 </code></pre>
-    <ul>
-        <li>grunt also tries to load non-grunt packages</li>
-        <li>no clean way to add configuration</li>
-    </ul>
 </div>

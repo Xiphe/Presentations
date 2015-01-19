@@ -1,29 +1,72 @@
 [
-    "index.md",
+    "title.md",
     "i-am.md",
+    "index.md",
     [
-        "background-story.md",
+        "background-story-0.md",
+        "background-story-1.md",
         "background-story-2.md",
+        "background-story-25.md",
         "background-story-3.md",
         "background-story-4.md"
     ],
-    "recap.md",
-    "why-not-npm.md",
     [
-        "grunt-collections.md",
+        "recap.md",
+        {
+            "filename": "recap-2.md",
+            "attr": {
+                "data-background": "#00d103"
+            }
+        },
+        {
+            "filename": "recap-3.md",
+            "attr": {
+                "data-background": "#00d103"
+            }
+        },
+        {
+            "filename": "recap-4.md",
+            "attr": {
+                "data-background": "#00d103"
+            }
+        },
+        {
+            "filename": "recap-5.md",
+            "attr": {
+                "data-background": "#ff4f4f"
+            }
+        }
+    ],
+    [
+        "research.md",
+        "research-2.md",
+        "research-3.md"
+    ],
+    [
+        "grunt-collections-0.md",
+        "grunt-collections-1.md",
         "grunt-collections-2.md",
         "grunt-collections-3.md"
     ],
     [
-        "load-grunt-tasks.md",
-        "load-grunt-tasks-2.md"
+        "load-grunt-tasks-0.md",
+        "load-grunt-tasks-1.md",
+        "load-grunt-tasks-2.md",
+        "load-grunt-tasks-3.md"
     ],
-    "grunt-angular-toolbox.md",
     [
-        "example.md",
+        "grunt-angular-toolbox.md",
+        "grunt-angular-toolbox-2.md"
+    ],
+    [
+        "example-0.md",
+        "example-1.md",
         "example-2.md",
         "example-3.md",
-        "example-4.md"
+        "example-4.md",
+        "example-5.md"
     ],
-    "thank-you.md"
+    "demo.md",
+    "thank-you.md",
+    "credits.md"
 ]

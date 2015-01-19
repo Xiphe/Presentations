@@ -1,11 +1,7 @@
 
-# How to bundle grunt tasks and configuration
-
-&nbsp;
-
- 1. [Why would one do this](#/2)
- 2. [How can this be done](#/4)
- 3. [Example](#/8)
+ 1. [Why would one do this](#/3)
+ 2. [How can this be done](#/5)
+ 3. [How do i use it](#/9)
 
 <!-- From the terminal, pop in:
 
