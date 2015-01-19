@@ -1,1 +1,29 @@
-["index.md"]
+[
+    "index.md",
+    "i-am.md",
+    [
+        "background-story.md",
+        "background-story-2.md",
+        "background-story-3.md",
+        "background-story-4.md"
+    ],
+    "recap.md",
+    "why-not-npm.md",
+    [
+        "grunt-collections.md",
+        "grunt-collections-2.md",
+        "grunt-collections-3.md"
+    ],
+    [
+        "load-grunt-tasks.md",
+        "load-grunt-tasks-2.md"
+    ],
+    "grunt-angular-toolbox.md",
+    [
+        "example.md",
+        "example-2.md",
+        "example-3.md",
+        "example-4.md"
+    ],
+    "thank-you.md"
+]
